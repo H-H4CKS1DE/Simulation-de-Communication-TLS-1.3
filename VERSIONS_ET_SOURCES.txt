@@ -1,0 +1,3 @@
+Kit rédigé le 4 novembre 2026.
+Documentation consultée : RFC 9846, RFC 8446, RFC 8996, RFC 9851 ; documentation OpenSSL s_server/s_client ; documentation Python ssl.
+Le kit est un support pédagogique local, non une configuration de production.
